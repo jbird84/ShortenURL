@@ -11,6 +11,7 @@
 		DAD8D8E4293D4FA90065FFE8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD8D8E3293D4FA90065FFE8 /* ContentView.swift */; };
 		DAD8D8E6293D4FAC0065FFE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAD8D8E5293D4FAC0065FFE8 /* Assets.xcassets */; };
 		DAD8D8E9293D4FAC0065FFE8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAD8D8E8293D4FAC0065FFE8 /* Preview Assets.xcassets */; };
+		DAD8D8F0293D4FC40065FFE8 /* URLShortManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD8D8EF293D4FC40065FFE8 /* URLShortManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DAD8D8E3293D4FA90065FFE8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DAD8D8E5293D4FAC0065FFE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAD8D8E8293D4FAC0065FFE8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DAD8D8EF293D4FC40065FFE8 /* URLShortManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLShortManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				DAD8D8E3293D4FA90065FFE8 /* ContentView.swift */,
 				DAD8D8E5293D4FAC0065FFE8 /* Assets.xcassets */,
 				DAD8D8E7293D4FAC0065FFE8 /* Preview Content */,
+				DAD8D8EF293D4FC40065FFE8 /* URLShortManager.swift */,
 			);
 			path = ShortenURL;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DAD8D8F0293D4FC40065FFE8 /* URLShortManager.swift in Sources */,
 				DAD8D8E4293D4FA90065FFE8 /* ContentView.swift in Sources */,
 				DAD8D8E2293D4FA90065FFE8 /* ShortenURLApp.swift in Sources */,
 			);
